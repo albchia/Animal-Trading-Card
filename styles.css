@@ -1,0 +1,60 @@
+/* add your CSS here */
+
+body {
+    background-color: seashell;
+}
+
+h3 {
+    color: rgb(92,45,17);
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 5px;
+}
+
+p {
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid seashell;
+    margin-bottom: 5px;
+
+}
+
+#interesting_fact {
+    font-style: italic;
+    font-size: 14px;
+}
+
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+    padding-left: 0;
+    font-size: 14px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.animal_card {
+    width: 300px;
+    margin: 10px;
+    padding: 15px;
+    border: 3px solid rgb(92,45,17);
+    border-radius: 10px;
+    background-color: rgb(201,172,142);
+    position: absolute;
+    left: 38%; 
+}
+
+.card_content {
+    border: 1px solid rgb(92,45,17);
+    border-radius: 10px;
+    padding: 8px;
+    background-color: seashell;
+}
