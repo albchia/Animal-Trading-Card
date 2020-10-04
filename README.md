@@ -10,10 +10,14 @@ See full project (link)
 - Contributing
 
 ## About the Project
-In this section we'll see the Project Overview, the Project Instructions and the Design Prototype sections.
+This is the first project made during Udacity classroom on "Intro to Programming".
 
-### Project Overview
+#### Project Overview
 Title: _"Animal Trading Card"_
+
+GitHub: link - 
+
+Package ZIP: link - 
 
 The project combines the skills mastered in the problem set, asking to re-create a webpage from a design prototype.
 
