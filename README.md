@@ -19,12 +19,9 @@ GitHub: link -
 
 Package ZIP: link - 
 
-The project combines the skills mastered in the problem set, asking to re-create a webpage from a design prototype.
+This is a common flow for front-end web developers: typically provided with a design prototype that needs to be translated to a functional actual website.
 
-This is a common flow for front-end web developers: you'll be provided with a design prototype and the HTML.
-You'll be createing the card and swapping out the fish with an animalof your choice.
-
-
+The design prototype used in this project is inspired by trading cards. The task is to create the card, swapping out the fish with an animal of sudent's choice.
 
 ### Design Prototype
 This is the card example from which develop the project card.
