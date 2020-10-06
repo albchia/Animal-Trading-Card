@@ -50,7 +50,11 @@ The _style.css_ should apply the following styles to match the design prototype:
 - use an image with a _width_ of 300 pixels. If the image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted
 - the entire card's width should be fixed and it should include the spacing around the image (since image is 300 pixels wide, card should be 300 pixels + spacing on either side). The card should not expand with the browser window
 - italicized text for the animal's interesting facts
-- bolded labels for the animal's list items
+- bolded labels for the animal's list items (only labels, not the entire list)
+- no dots for the animal's list items
+- border around the animal's name, image and information (make sure you set the _border-style_, _border-width_ and _border-color_; it's possible to do it in one line)
+- spacing around the animal's name, image, the list of items and information (you will need to use the property _padding_ - https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
+
 
 
 
