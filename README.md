@@ -15,9 +15,9 @@ This is the first project made during Udacity classroom on "Intro to Programming
 #### Project Overview
 Title: _"Animal Trading Card"_
 
-GitHub: link - 
-
-Package ZIP: link - 
+> GitHub: link - 
+>
+> Package ZIP: link - 
 
 This is a common flow for front-end web developers: typically provided with a design prototype that needs to be translated to a functional actual website.
 
@@ -26,7 +26,7 @@ The design prototype used in this project is inspired by trading cards. The task
 #### Design Prototype
 This is the card example from which develop the project card.
 
-Design Prototype (image)
+> Design Prototype (image)
 
 #### Project Instructions
 Feel free to customize information and style so long as you follow the following rules.
@@ -60,7 +60,7 @@ The _style.css_ should apply the following styles to match the design prototype:
 This repository is the project created by myself during the Udacity Program.
 Therefore, pull requests will not be accepted.
 
-For details, check out CONTRIBUTING.md.
+> For details, check out CONTRIBUTING.md.
 
 
 
