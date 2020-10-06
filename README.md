@@ -29,7 +29,7 @@ The design prototype used in this project is inspired by trading cards. The task
 #### Design Prototype
 This is the card example from which develop the project card.
 
-![Design Prototype](https://user-images.githubusercontent.com/70691672/95206005-71ea8700-07e6-11eb-9483-0e36bad42475.png "Project's Design Prototype)
+![Design Prototype](https://user-images.githubusercontent.com/70691672/95206005-71ea8700-07e6-11eb-9483-0e36bad42475.png "Project's Design Prototype")
 
 #### Project Instructions
 Feel free to customize information and style so long as you follow the following rules.
