@@ -27,3 +27,20 @@ The design prototype used in this project is inspired by trading cards. The task
 This is the card example from which develop the project card.
 
 Design Prototype (image)
+
+### Project Instructions
+
+_Customize card.html_
+1. Replace the placeholder image in _card.html_ with your favorite animal's image and information. Don't forget to change the _alt_ attribute of the image to the name of the animal chosen.
+
+2. Modify _card.html_ to include attributes so that you can use _CSS selectors_ to style the specific elements required. Important to use meaningful names for CSS classes.
+
+3. Link the _style.css_ in your _card.html_. Pay attention to not include any <style> elements or style attributes in the body of the _card.html_.
+
+4. Replace current information with your animal's information:
+    - animal's name
+    - interesting facts about the animal
+    - lists of items for your animal's characteristics
+    - animal's brief description
+
+
