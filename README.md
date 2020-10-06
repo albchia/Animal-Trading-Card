@@ -23,7 +23,7 @@ This is a common flow for front-end web developers: typically provided with a de
 
 The design prototype used in this project is inspired by trading cards. The task is to create the card, swapping out the fish with an animal of sudent's choice.
 
-### Design Prototype
+#### Design Prototype
 This is the card example from which develop the project card.
 
 Design Prototype (image)
