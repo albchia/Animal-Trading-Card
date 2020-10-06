@@ -57,7 +57,7 @@ The _style.css_ should apply the following styles to match the design prototype:
 - Border around the animal's name, image and information (make sure you set the _border-style_, _border-width_ and _border-color_; it's possible to do it in one line)
 - Spacing around the animal's name, image, the list of items and information (you will need to use the property _padding_ - https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
 
-# Contributing
+## Contributing
 This repository is the project created by myself during the Udacity Program.
 Therefore, pull requests will not be accepted.
 
