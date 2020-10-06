@@ -26,7 +26,7 @@ The design prototype used in this project is inspired by trading cards. The task
 #### Design Prototype
 This is the card example from which develop the project card.
 
-> Design Prototype (image)
+Design Prototype (image)
 
 #### Project Instructions
 Feel free to customize information and style so long as you follow the following rules.
