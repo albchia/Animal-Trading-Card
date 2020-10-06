@@ -12,6 +12,9 @@ See full project (link)
 ## About the Project
 This is the first project made during Udacity classroom on "Intro to Programming".
 
+#### Project Screenshot
+
+
 #### Project Overview
 Title: _"Animal Trading Card"_
 
