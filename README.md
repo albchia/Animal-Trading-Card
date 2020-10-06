@@ -15,9 +15,7 @@ This is the first project made during Udacity classroom on "Intro to Programming
 #### Project Overview
 Title: _"Animal Trading Card"_
 
-> GitHub: link - 
->
-> Package ZIP: link - 
+> GitHub: link - https://github.com/albchia/Animal-Trading-Card.git
 
 This is a common flow for front-end web developers: typically provided with a design prototype that needs to be translated to a functional actual website.
 
