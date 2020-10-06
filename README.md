@@ -12,7 +12,7 @@ See full project (link)
 ## About the Project
 This is the first project made during Udacity classroom on "Intro to Programming".
 
-#### Project Overview
+### Project Overview
 Title: _"Animal Trading Card"_
 
 GitHub: link - 
@@ -23,12 +23,12 @@ This is a common flow for front-end web developers: typically provided with a de
 
 The design prototype used in this project is inspired by trading cards. The task is to create the card, swapping out the fish with an animal of sudent's choice.
 
-#### Design Prototype
+### Design Prototype
 This is the card example from which develop the project card.
 
 Design Prototype (image)
 
-#### Project Instructions
+### Project Instructions
 Feel free to customize information and style so long as you follow the following rules.
 For inspiration, you can try playing around with _background-colors_ and _border-radius_. 
 You can even add a _box-shadow_ around the card.
