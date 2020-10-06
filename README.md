@@ -44,6 +44,7 @@ _Customize card.html_
     - animal's brief description
 
 _Customize style.css_
+
 The _style.css_ should apply the following styles to match the design prototype:
 
 - use an image with a _width_ of 300 pixels. If the image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted
