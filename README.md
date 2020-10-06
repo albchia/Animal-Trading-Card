@@ -23,12 +23,15 @@ This is a common flow for front-end web developers: typically provided with a de
 
 The design prototype used in this project is inspired by trading cards. The task is to create the card, swapping out the fish with an animal of sudent's choice.
 
-### Design Prototype
+#### Design Prototype
 This is the card example from which develop the project card.
 
 Design Prototype (image)
 
-### Project Instructions
+#### Project Instructions
+Feel free to customize information and style so long as you follow the following rules.
+For inspiration, you can try playing around with _background-colors_ and _border-radius_. 
+You can even add a _box-shadow_ around the card.
 
 _Customize card.html_
 1. Replace the placeholder image in _card.html_ with your favorite animal's image and information. Don't forget to change the _alt_ attribute of the image to the name of the animal chosen.
@@ -38,22 +41,22 @@ _Customize card.html_
 3. Link the _style.css_ in your _card.html_. Pay attention to not include any <style> elements or style attributes in the body of the _card.html_.
 
 4. Replace current information with your animal's information:
-    - animal's name
-    - interesting facts about the animal
-    - lists of items for your animal's characteristics
-    - animal's brief description
+    - Animal's name
+    - Interesting facts about the animal
+    - Lists of items for your animal's characteristics
+    - Animal's brief description
 
 _Customize style.css_
 
 The _style.css_ should apply the following styles to match the design prototype:
+- Use an image with a _width_ of 300 pixels. If the image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted
+- The entire card's width should be fixed and it should include the spacing around the image (since image is 300 pixels wide, card should be 300 pixels + spacing on either side). The card should not expand with the browser window
+- Italicized text for the animal's interesting facts
+- Bolded labels for the animal's list items (only labels, not the entire list)
+- No dots for the animal's list items
+- Border around the animal's name, image and information (make sure you set the _border-style_, _border-width_ and _border-color_; it's possible to do it in one line)
+- Spacing around the animal's name, image, the list of items and information (you will need to use the property _padding_ - https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
 
-- use an image with a _width_ of 300 pixels. If the image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted
-- the entire card's width should be fixed and it should include the spacing around the image (since image is 300 pixels wide, card should be 300 pixels + spacing on either side). The card should not expand with the browser window
-- italicized text for the animal's interesting facts
-- bolded labels for the animal's list items (only labels, not the entire list)
-- no dots for the animal's list items
-- border around the animal's name, image and information (make sure you set the _border-style_, _border-width_ and _border-color_; it's possible to do it in one line)
-- spacing around the animal's name, image, the list of items and information (you will need to use the property _padding_ - https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
 
 
 
