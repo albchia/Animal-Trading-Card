@@ -48,11 +48,8 @@ _Customize style.css_
 The _style.css_ should apply the following styles to match the design prototype:
 
 - use an image with a _width_ of 300 pixels. If the image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted
-
 - the entire card's width should be fixed and it should include the spacing around the image (since image is 300 pixels wide, card should be 300 pixels + spacing on either side). The card should not expand with the browser window
-
 - italicized text for the animal's interesting facts
-
 - bolded labels for the animal's list items
 
 
