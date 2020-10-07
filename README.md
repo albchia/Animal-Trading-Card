@@ -13,7 +13,7 @@ See full project (link)
 This is the first project made during Udacity classroom on "Intro to Programming".
 
 #### Project Screenshot
-My _Giraffe Card_
+My _Giraffe Card_!
 
 ![Giraffe Card](https://user-images.githubusercontent.com/70691672/95225840-86397e80-07fc-11eb-854e-feab35f6fcbd.PNG "My Giraffe Card")
 
