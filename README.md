@@ -28,15 +28,15 @@ The design prototype used in this project is inspired by trading cards. The task
 
 #### Project Instructions
 Feel free to customize information and style so long as you follow the following rules.
-For inspiration, you can try playing around with _background-colors_ and _border-radius_. 
-You can even add a _box-shadow_ around the card.
+For inspiration, you can try playing around with `background-colors` and `border-radius`. 
+You can even add a `box-shadow` around the card.
 
 ##### Customize _card.html_
-1. Replace the placeholder image in _card.html_ with your favorite animal's image and information. Don't forget to change the _alt_ attribute of the image to the name of the animal chosen.
+1. Replace the placeholder image in `card.html` with your favorite animal's image and information. Don't forget to change the `alt` attribute of the image to the name of the animal chosen.
 
-2. Modify _card.html_ to include attributes so that you can use _CSS selectors_ to style the specific elements required. Important to use meaningful names for CSS classes.
+2. Modify `card.html` to include attributes so that you can use `CSS selectors` to style the specific elements required. Important to use meaningful names for CSS classes.
 
-3. Link the _style.css_ in your _card.html_. Pay attention to not include any <style> elements or style attributes in the body of the _card.html_.
+3. Link the `style.css` in your `card.html`. Pay attention to not include any <style> elements or style attributes in the body of the `card.html`.
 
 4. Replace current information with your animal's information:
     - Animal's name
@@ -51,7 +51,7 @@ The _style.css_ should apply the following styles to match the design prototype:
 - Italicized text for the animal's interesting facts
 - Bolded labels for the animal's list items (only labels, not the entire list)
 - No dots for the animal's list items
-- Border around the animal's name, image and information (make sure you set the _border-style_, _border-width_ and _border-color_; it's possible to do it in one line)
+- Border around the animal's name, image and information (make sure you set the `border-style`, `border-width` and `border-color`; it's possible to do it in one line)
 - Spacing around the animal's name, image, the list of items and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
 
 ## Contributing
