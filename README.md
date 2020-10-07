@@ -13,8 +13,7 @@ See full project (link)
 This is the first project made during Udacity classroom on "Intro to Programming".
 
 #### Project Screenshot
-_Giraffe Card_
-
+My _Giraffe Card_
 ![Giraffe Card](https://user-images.githubusercontent.com/70691672/95225840-86397e80-07fc-11eb-854e-feab35f6fcbd.PNG "My Giraffe Card")
 
 #### Project Overview
@@ -45,8 +44,8 @@ You can even add a `box-shadow` around the card.
     - Animal's brief description
 
 ##### Customize _style.css_
-The _style.css_ should apply the following styles to match the design prototype:
-- Use an image with a _width_ of 300 pixels. If the image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted
+The `style.css` should apply the following styles to match the design prototype:
+- Use an image with a `width` of 300 pixels. If the image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted
 - The entire card's width should be fixed and it should include the spacing around the image (since image is 300 pixels wide, card should be 300 pixels + spacing on either side). The card should not expand with the browser window
 - Italicized text for the animal's interesting facts
 - Bolded labels for the animal's list items (only labels, not the entire list)
