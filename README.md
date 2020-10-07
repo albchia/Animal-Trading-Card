@@ -6,8 +6,8 @@ This was the project I realized during the Udacity Path "Intro to Programming" N
 See full project (link)
 
 ## Table of Contents
-- About the Project
-- Contributing
+- [About the Project](#About-the-Project)
+- [Contributing](#Contributing)
 
 ## About the Project
 This is the first project made during Udacity classroom on "Intro to Programming".
