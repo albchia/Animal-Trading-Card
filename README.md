@@ -6,7 +6,7 @@ This was the project I realized during the Udacity Path "Intro to Programming" N
 See full project (link)
 
 ## Table of Contents
-- [About the Project](#About the Project)
+- [About the Project](#About-the-Project)
 - [Contributing](#Contributing)
 
 ## About the Project
