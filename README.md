@@ -3,7 +3,7 @@ A nice Animal Card built within HTML and CSS.
 
 This was the project I realized during the Udacity Path "Intro to Programming" Nanodegree.
 
-See full project (link)
+[See full project](https://albchia.github.io/Animal-Trading-Card/index.html)
 
 ## Table of Contents
 - [About the Project](#About-the-Project)
