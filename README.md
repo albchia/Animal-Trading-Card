@@ -1,4 +1,4 @@
-# Animal-Trading-Card
+# Animal Trading Card
 A nice Animal Card built within HTML and CSS.
 
 This was one of the projects I realized during the Udacity Path "Intro to Programming" Nanodegree.
