@@ -65,7 +65,7 @@ The `style.css` should apply the following styles to match the design prototype:
 
 ## Contributing
 
-This repository is the project created by myself during the Udacity Program.
+This is the repository of the project created by myself during the Udacity Program.
 Therefore, pull requests will not be accepted.
 
 > For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
